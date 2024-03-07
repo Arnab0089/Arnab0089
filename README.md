@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Kundu</h1>
-<h3 align="center">Hi, I'm Arnab Kundu, a Front End Developer adept at transforming designs into interactive and user-friendly websites. With expertise in HTML5, CSS3, and JavaScript, I specialize in crafting captivating digital experiences. Let's connect and discuss how I can elevate your web projects.</h3>
+<h3 align="center">Hi, I'm Arnab Kundu, a Front End Developer </h3>
 
 - 🔭 I’m currently working on [Task Manager](https://github.com/Arnab0089/task-manager)
 
